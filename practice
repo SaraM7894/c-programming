@@ -1,0 +1,13 @@
+int max (int num1, int num2) {
+if (num1>numb2) {
+printf("num1");
+}
+else {
+printf("num2");
+}
+return 0;
+
+int main(void) [
+printf("max(42,-69) is %d\n, max(42,-69);
+}
+return 0;
